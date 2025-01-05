@@ -1,7 +1,7 @@
 Hi, I’m @SongulSCelik
 
 👀 I’m interested in data science, machine learning, and economic analysis.
-🌱 I’m currently learning advanced Python programming and exploring NumPy.
+🌱 I’m currently learning advanced Python programming.
 💞️ I’m looking to collaborate on data science projects and machine learning applications.
 📫 How to reach me: songulsivacelik@gmail.com
 😄 Pronouns: she/her
